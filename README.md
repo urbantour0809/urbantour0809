@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Welcome%20to%20My%20AI%20Hub%20🚀&fontSize=38&fontAlignY=35&fontColor=ffffff&desc=I%27m%20Park%20Wonbin%2C%20AI%20Developer%20%F0%9F%87%B0%F0%9F%87%B7&descAlignY=60&animation=fadeIn" />
 </p>
 
-<h1 align="center">✨ 안녕하세요! I'm Park Wonbin, AI Developer from Korea 🇰🇷</h1>
+<h1 align="center">✨ 안녕하세요! AI 개발자 박원빈입니다! Hello! I'm Park Wonbin, AI Developer from Korea 🇰🇷</h1>
 
 <p align="center">
   🧠 <strong>삶의 질을 향상시키는 인공지능 기술</strong>에 진심입니다. <br/>
