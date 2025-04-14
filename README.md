@@ -64,5 +64,3 @@
 ---
 
 <p align="center">💬 "Learning never exhausts the mind." – Leonardo da Vinci</p>
-
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=urbantour0809&icon=0&color=2" alt="visitor badge"/></p>
