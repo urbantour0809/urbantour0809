@@ -17,8 +17,6 @@
 ``` 
 🧩 Python · FastAPI · Flask · Django
 🧠 PyTorch · TensorFlow · HuggingFace Transformers
-📦 Sentence Embedding · RAG · Vector Search · LangChain
-🔧 LLM 양자화 (4bit/8bit), GPU 최적화, BitsAndBytes
 ```
 
 **Frontend & Tools**
