@@ -50,7 +50,7 @@
 ## 📊 GitHub 활동
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=urbantour0809&theme=default&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=urbantour0809&theme=default)
+![Streak](https://streak-stats.demolab.com/?user=urbantour0809&theme=default)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbantour0809&layout=compact)
 
 ---
