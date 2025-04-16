@@ -51,7 +51,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=urbantour0809&theme=default&show_icons=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbantour0809&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbantour0809&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=urbantour0809&show_icons=true&theme=tokyonight)
 
 ---
