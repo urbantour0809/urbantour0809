@@ -51,7 +51,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=urbantour0809&theme=default&show_icons=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urbantour0809&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=urbantour0809&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbantour0809&layout=compact&theme=tokyonight)
 
 ---
 
